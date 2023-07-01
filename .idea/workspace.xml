@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa452d54-204c-45ef-8d2c-fd47e1affe00" name="Changes" comment="30.06.2023 page update">
+      <change afterPath="$PROJECT_DIR$/static/img/3Dcon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/CAN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Lutownica.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/Subaru.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20230629_203609-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/Spacemouse.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688158768525</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="30.06.2023 page update">
+      <created>1688202544268</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688202544268</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
